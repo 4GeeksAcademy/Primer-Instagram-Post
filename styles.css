@@ -1,0 +1,67 @@
+body {
+    background: black;
+    height: 2000px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 110%;
+}
+.bigbrick {
+    width: 33%;
+    height: 630px;
+    background: white;
+    margin: auto;
+    margin-top: 120px;
+
+}
+#header {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+#headerizq {
+    display: flex;
+}
+#userimg {
+    padding: 10px;
+}
+.username {
+    font-size: 85%;
+    margin: 0;
+    padding-top: 10px;
+}
+.ubic {
+    font-size: 85%;
+    margin: 0;
+    padding-bottom: 10px; 
+}
+.img {
+    width: 100%;
+}
+.textoinfprimero {
+    font-size: 85%;
+    padding: 10px 13px 10px 13px;
+    margin: 0px;
+    text-align: justify;
+}
+.textoinfsegundo {
+    font-size: 85%;
+    padding: 10px 13px 10px 13px;
+    margin: 0px;
+    text-align: justify;
+}
+#emojis {
+    padding: 10px 10px 10px 13px;
+    display: flex;
+    justify-content: space-between;
+}
+.emojiizquierdo > i  {
+    padding-right: 3px;
+    padding-top: 7px;
+}
+.emojiderecho {
+    padding-right: 10px;
+    padding-top: 7px;
+}
+#iconosupderecho {
+    padding: 10px 15px 10px 10px;
+}
